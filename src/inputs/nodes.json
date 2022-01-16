@@ -1,0 +1,125 @@
+
+[
+    {
+      "data": {
+        "id": "A1",
+        "idInt": 1,
+        "name": "Artigo 1",
+        "query": true,
+        "classes": "Artigo",
+        "score": 1
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true
+    },
+    {
+      "data": {
+        "id": "P2A1",
+        "idInt": 2,
+        "name": "Paragrafo II",
+        "query": true,
+        "classes": "Paragrafo",
+        "score": 1
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true
+    },
+    {
+      "data": {
+        "id": "P4A1",
+        "idInt": 3,
+        "name": "Paragrafo IV",
+        "query": true,
+        "classes": "Paragrafo",
+        "score": 1
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true
+    },
+    {
+      "data": {
+        "id": "L13874",
+        "idInt": 4,
+        "name": "LEI Nº 13.874 DE 20/09/2019",
+        "query": true,
+        "classes": "Lei",
+        "score": 1
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true
+    },
+    {
+      "data": {
+        "source": "A1",
+        "target": "P2A1",
+        "directed": true,
+        "intn": true,
+        "id": "E1"
+      },
+      "position": {
+        
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "directed": true
+    },
+    {
+      "data": {
+        "source": "A1",
+        "target": "P4A1",
+        "directed": true,
+        "intn": true,
+        "rIntnId": 1,
+        "id": "E2"
+      },
+      "position": {
+        
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "directed": true
+    },
+    {
+      "data": {
+        "source": "P4A1",
+        "target": "L13874",
+        "directed": true,
+        "intn": true,
+        "id": "E3"
+      },
+      "position": {
+        
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "directed": true
+    }
+  ]
