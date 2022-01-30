@@ -38,8 +38,51 @@ export const mountDataJson = () => {
         let edge = {}
         const name = "L" + String(i)
         const edgeName =  "EDGE" + String(i)
-        const legsName = norma.legislationAmends[i].name
+        let legsName = norma.legislationAmends[i]['@id'].split("!")[1]
         if (typeof legsName !== 'undefined' && legsName !== null) {
+            legs = {
+                "data": {
+                    "id": name,
+                    "idInt": i + 1,
+                    "name": legsName,
+                    "query": true,
+                    "classes": "Artigo",
+                    "score": 1
+                },
+                "group": "nodes",
+                "removed": false,
+                "selected": false,
+                "selectable": true,
+                "locked": false,
+                "grabbable": true
+            }
+            
+            nodeJson.push(legs);
+
+            edge = {
+                "data": {
+                  "source": "E1",
+                  "target": name,
+                  "directed": true,
+                  "intn": true,
+                  "rIntnId": i + 1,
+                  "id": edgeName
+                },
+                "position": {
+                  
+                },
+                "group": "edges",
+                "removed": false,
+                "selected": false,
+                "selectable": true,
+                "locked": false,
+                "grabbable": true,
+                "directed": true
+              }
+
+            
+        }
+        else{
             legs = {
                 "data": {
                     "id": name,
@@ -80,8 +123,9 @@ export const mountDataJson = () => {
                 "directed": true
               }
 
-             nodeJson.push(edge); 
         }
+
+        nodeJson.push(edge); 
     }
 
     const resultJson = JSON.stringify(nodeJson)
