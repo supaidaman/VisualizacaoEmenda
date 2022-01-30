@@ -1,0 +1,192 @@
+{
+    "legislationPassedBy": {
+        "@type": "GovernmentOrganization",
+        "name": "Congresso Nacional",
+        "@id": "https://www.congressonacional.leg.br"
+    },
+    "keywords": ["ALTERAÇÃO", "DISPOSITIVOS", "CONSTITUIÇÃO FEDERAL"],
+    "@type": "Legislation",
+    "about": [{
+        "@type": "Thing",
+        "name": "CONSTITUIÇÃO FEDERAL"
+    }],
+    "description": "Altera os arts. 40, 42, 102, 103, 150, 155, 156, 160, 167 da Constituição Federal.",
+    "legislationJurisdiction": {
+        "address": {
+            "addressCountry": "BR",
+            "@type": "PostalAddress"
+        },
+        "@type": "Country",
+        "name": "Brasil"
+    },
+    "sdPublisher": {
+        "@type": "GovernmentOrganization",
+        "@id": "https://normas.leg.br/"
+    },
+    "legislationDate": "1993-03-17",
+    "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1993-03-17;3",
+    "legislationIdentifier": "urn:lex:br:federal:emenda.constitucional:1993-03-17;3",
+    "inLanguage": "pt",
+    "legislationRepeals": [{
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art156_cpt_inc4"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art156_par4"
+    }],
+    "dateModified": "1994-03-01",
+    "alternateName": ["EMC-3-1993-03-17"],
+    "legislationAmends": [{
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art42_par10"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art102_cpt_inc1_ali1"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art102_par1u"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art150_par6"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art155_cpt"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art155_cpt_inc1"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art155_cpt_inc2"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par1"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par2"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art155_par3"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art156_cpt_inc3"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art156_par3"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art160_par1u"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art167_cpt_inc4"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 40, § 6  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655413"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 102, § 1  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655562"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 102, § 2  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655107"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 103, § 4  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655387"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 150, § 7  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655455"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 155  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655456"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 155, § 1  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655527"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 155, § 2  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655310"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 155, § 3  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655182"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 156, caput, Inciso 3  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655528"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 156, § 3  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655183"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 160, Parágrafo Único  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655592"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 167, caput, Inciso 4  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655593"
+    }, {
+        "@type": "Legislation",
+        "name": "Art. 167, § 4  de Constituição da República Federativa do Brasil",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!dispositivo_17655457"
+    }],
+    "sdDatePublished": "2021-12-07",
+    "sdLicense": "https://creativecommons.org/licenses/by/4.0/",
+    "encoding": [{
+        "contentUrl": "https://normas.leg.br/api/binario/3910e535-ee4f-458a-948c-83c15121ae2c/texto",
+        "@type": "LegislationObject",
+        "name": "Publicação Original [Emenda Constitucional nº 3 de 17/03/1993]  [Diário Oficial da União  de 18/03/1993] (p. 3209, col. 1)",
+        "legislationLegalValue": "UnofficialLegalValue",
+        "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+        "version": "original"
+    }],
+    "@context": ["http://schema.org/"],
+    "datePublished": "1993-03-18",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "isBasedOn": {
+        "@type": "Legislation",
+        "name": "Proposta de Emenda à Constituição nº 48/1991 > Proposta de Emenda à Constituição nº 2/1993 : Emenda Constitucional nº 3 de 17/03/1993",
+        "@id": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pec-48-1991-cd"
+    },
+    "name": "Emenda Constitucional nº 3 de 17/03/1993",
+    "legislationType": "Emenda Constitucional",
+    "publisher": {
+        "@type": "GovernmentOrganization",
+        "name": "Congresso Nacional",
+        "@id": "https://www.congressonacional.leg.br"
+    },
+    "legislationCommences": [{
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art1_cpt_alt1_art40_par6"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art1_cpt_alt1_art102_par2"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art1_cpt_alt1_art103_par4"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art1_cpt_alt1_art150_par7"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art1_cpt_alt1_art155_cpt_inc3"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art1_cpt_alt1_art167_par4"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art1_cpt_alt1_art156_par3_inc1"
+    }, {
+        "@type": "Legislation",
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art1_cpt_alt1_art156_par3_inc2"
+    }],
+    "sameAs": ["http://www.lexml.gov.br/urn/urn:lex:br:federal:emenda.constitucional:1993-03-17;3", "http://legis.senado.leg.br/legislacao/DetalhaSigen.action?id=593584"]
+}
