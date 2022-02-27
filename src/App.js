@@ -6,7 +6,7 @@ import cyStyle from './inputs/style.json'
 export default function App() {
  const dataMounted = mountDataJson();
   const [width, setWith] = useState("100%");
-  const [height, setHeight] = useState("600px");
+  const [height, setHeight] = useState("900px");
  // console.log(cyData)
 //Adding elements here
   const [graphData, setGraphData] = useState(dataMounted);
@@ -17,7 +17,9 @@ return (
         <div
           style={{
             border: "1px solid",
-            backgroundColor: "#f5f6fe"
+            backgroundColor: "#f5f6fe",
+            width: width,
+            height: height
           }}
         >
           <CytoscapeComponent
